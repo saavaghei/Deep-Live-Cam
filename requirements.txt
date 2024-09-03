@@ -9,7 +9,7 @@ tk==0.1.0
 customtkinter==5.2.2
 pillow
 torch==2.4.0
-torchvision==0.19.1
+torchvision==0.19.0
 onnxruntime>=1.18.0,<1.27
 onnxruntime-gpu>=1.18.0,<1.27; sys_platform != 'darwin'
 tensorflow>=2.12.1
